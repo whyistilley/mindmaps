@@ -1,0 +1,150 @@
+Network Components (OBJ 2.1)
+    Clients
+        Examples
+            Smart TVs
+            Laptops
+            Tablets
+            IoT Devices
+                Nest Thermostat
+        Typically
+            End User
+                Terminal
+                    Device
+            Anything
+                Accessing
+                    Network(s)
+    Servers
+        Provide
+            Network
+                Resources
+                    to Clients
+        Examples
+            Email
+            Web
+            File
+        Can
+            Be
+                Dedicated
+                    Hardware
+            Use
+                Specialized
+                    Software
+    Hubs
+        Old
+            Obsolete
+        Benefits
+            Connectivity
+                Easy
+            Interconnected
+                Allows
+                    Expansion
+                        via Daisy Chain
+        Drawbacks
+            Increased
+                Errors
+            Communication
+                Broadcast Type
+            Insecure
+        Backbone
+            Networking
+    Wireless Access Point (WAP)
+        Allows
+            Wireless
+                Access
+                    Network
+        Example
+            Laptop
+                Connected
+                    Wirelessly (WiFi)
+                        to Router
+                            Wired
+                                to Network
+            Wireless
+                Hub
+        Common Among
+            Homes
+            Colleges
+            Small Businesses
+            Large Enterprises
+    Switches
+        Similar
+            Hub
+                Smarter
+                Connects
+                    Servers
+                    Clients
+        Communication
+            Direct Type
+                Device to Device
+            Forwards
+                Traffic
+                    Specific
+                        Devices
+        Capable
+            Learning
+                Devices
+                    Ports
+        Benefits
+            Bandwidth
+                Efficiency
+            More Secure
+    Routers
+        Connect
+            Different
+                Networks
+                    Together
+        Reliant
+            Routing Protocols
+        Intelligently
+            Forwards
+                Traffic
+                    Using
+                        IP (Internet Protocol) Address
+    Media
+        Connects
+            Devices
+                Together
+                Examples
+                    Laptop
+                        Switch
+                            via Ethernet Cable
+                    Printer
+                        Router
+                            via WiFi
+        Examples
+            Wired
+                Copper
+                Fiber Optic
+            Wireless
+                Radio
+                WiFi
+        Drawbacks
+            Copper
+                Cheap
+                Potential
+                    Latency
+            Fiber
+                Expensive
+                Fast
+            Broken
+                Media
+                    Causes
+                        Network
+                            Issues
+    WAN Link
+        Connects
+            Geographically
+                Dispersed
+                    Networks
+                        Physically
+            Internal
+                and External
+                    Networks
+                        via Router
+        Examples
+            Cable
+            DSL Line
+            Fiber
+            Satellite
+        Abbreviation
+            Wide Area Network Link
